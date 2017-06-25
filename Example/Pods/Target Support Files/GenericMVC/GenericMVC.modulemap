@@ -1,0 +1,6 @@
+framework module GenericMVC {
+  umbrella header "GenericMVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

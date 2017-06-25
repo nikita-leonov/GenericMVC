@@ -1,0 +1,6 @@
+framework module Pods_GenericMVC_Tests {
+  umbrella header "Pods-GenericMVC_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
